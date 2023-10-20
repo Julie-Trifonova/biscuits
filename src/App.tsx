@@ -36,7 +36,7 @@ function App() {
         // m = 6;
         // c = [4,18,4]
 
-        debugger
+        // debugger
         console.log(n, m, c)
         // if (c.length !== n) {
         //     return 'Oops! Count of places with biscuits are not match to N'
